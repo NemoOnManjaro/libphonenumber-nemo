@@ -10,7 +10,7 @@ arch=('x86_64' 'aarch64')
 license=(Apache)
 depends=('protobuf')
 depends_x86_64=('icu=76.1'
-    'abseil-cpp=20250127.1')
+    'abseil-cpp=20250814.0')
 depends_aarch64=('icu=76.1'
     'abseil-cpp=20250512.1')
 
