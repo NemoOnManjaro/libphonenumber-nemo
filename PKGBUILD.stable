@@ -8,7 +8,7 @@ pkgdesc="Google's common library for parsing, formatting, and validating interna
 url="https://github.com/google/libphonenumber"
 arch=('x86_64' 'aarch64')
 license=(Apache)
-depends=('protobuf
+depends=('protobuf')
 depends_x86_64=('icu=76.1'
     'abseil-cpp=20250127.1')
 depends_aarch64=('icu=74.2'
